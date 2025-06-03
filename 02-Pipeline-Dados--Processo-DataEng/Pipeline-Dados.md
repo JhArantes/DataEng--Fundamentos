@@ -78,6 +78,7 @@ Podemos colocar em um data lake, data Warehouse, Data Store, Ambiente local ou n
 ![Finish](./IMGs/Finish--ETLXDados.png)
 
 
+---
 
 
 
