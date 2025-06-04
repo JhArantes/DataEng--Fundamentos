@@ -81,6 +81,66 @@ Podemos colocar em um data lake, data Warehouse, Data Store, Ambiente local ou n
 ---
 
 
+# Ciclo de Vida da Engenharia de Dados
+
+Os dados tem um periodo de Vida util
+Criamos um fluxo onde os dados passam por transformações e transporte e por exemplo vão para analise
+Se a empresa decidir que não é mais vantajoso guardar esses dados podemos mata-los
+
+![CicloVida](./IMGs/CicloVida.png)
+
+
+## Componentes
+
+### Fontes de Dados (Batch & Streaming)
+
+Banco de dados, arquivo txt, pdf, logs servidores, arquico IoT
+Onde tiver dados
+
+### Conectores
+
+Precisamos trazer esses dados da fonte
+Usamos conectores 
+Onde temos problemas por usarmos diferentes ferramentas e possiveis incompatibilidades
+
+
+### Transformação e Enriquecimento
+
+Colocar dados 
+
+### Carga e Uso dos Dados
+
+A empresa pode Armazenar e jogar no destino e dps fazer analise
+
+pode já fazer a analise e descartar
+
+ou os 2 e analisar e armazenar
+
+Uma camada mais simples eles já estão em "Casa"
+E podemos levar pra mais de 1 destino
+
+
+### Armazenamento
+
+Sistema de Armazenamento
+
+Data Warehouse (DW)
+Data Lake -> Extrair dados e depois fazer transformação Provel usar Data Lake
+
+
+### Tarefas Complementares / Auxiliares
+
+1. Arquitetura de Dados 
+Em constante evolução, deve acompanhar as atualizações do mercado e ferramentas
+
+2. Gestão de Dados e Metadados
+Estou usando os Dados de acordo com a Lei (LGPD/GDPR)??
+Estou anonimizando Dados delicados/Identificadores??
+
+MetaDados -> Informações/ Dados dos Dados
+
+
+3. Orquestração
 
 
 
