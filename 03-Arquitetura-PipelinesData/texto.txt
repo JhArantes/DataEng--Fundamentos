@@ -1,0 +1,29 @@
+# Arquitetura de Pipelines
+
+Para começarmos um projeto de pipeline de dados devemos compreender os requisitos de negocio e o que espera do uso de dados no dia a dia
+
+
+Requisitos de compeenção de Negócio
+Ajudar a empresa a alcançar os requisitos de negocio - Almentar lucro reduzindo custo
+
+Eu crio um pipeline que vai ajudar a empresa a usar os dados pra obter insights e resolver problemas de negocio
+
+### hierarquia
+
+1. Plataforma de dados
+
+2. Arquitetura geral de dados da empresa 
+Como os componentes vao se comportar dentro da plataforma de dados
+
+3. Pipeline
+
+Componentes responsaveis por mover os dados, transformar os dados levar os dados de uma fonte para um destino fazendo modificação necessarias
+
+---
+
+Cada pipeline deve ter um proposito e deve fazer parte de uma arquitetura de dados  que atenda aos requisitos de negocio da emrpesa, com o menos custo possivel, segurança e que seja flexievel as mudanças ao longo do tempo 
+
+
+## PoC (Prova de Conceito)
+
+Uma especie de laboratorio que simula cenarios valida requisitos de negocio testa ferramentas e ajuda a prever os custos
