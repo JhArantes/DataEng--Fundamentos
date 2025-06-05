@@ -80,6 +80,22 @@ Evitar investimentos desnecessários em soluções que não atendem aos requisit
 
 8. Usaremos dados em Batch, Streaming ou ambos??
 
+9. Já temos tecnologia que permita criar os pipelines??
+
+10. Quais tecnologias devem ser consideradas??
+
+11. Quais são os Acordos de Nível de Serviço (SLA's)??
+
+12. Qual o custo de implementar e manter os pipelines??
+
+13. Qual será o destino do Pipeline?? 
+
+14. Como será o monitoramento??
+
+15. Usaremos diversos pipelines encadeados??
+
+16. Vamos criar pipelines locais, na nuvem ou ambos??
+
 
 
 
